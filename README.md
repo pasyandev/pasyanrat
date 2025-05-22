@@ -1,4 +1,4 @@
-# pasyanrat
+![pasyanrat](https://media.discordapp.net/attachments/1374480624546746469/1375063154865733714/pasyanrat.png?ex=683052db&is=682f015b&hm=c34743ccd4ddd946a06296e060c4b5ca8b315eea2fe3817efcff5f2339fe5e17&=&format=webp&quality=lossless&width=1250&height=500)
 ## **Command List**
 
 - `listproc` – Lists all currently running processes on the system.
